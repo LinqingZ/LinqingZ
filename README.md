@@ -30,5 +30,5 @@ Here are some of the tools and technologies I work with:
 
 ### 🏆 Achievements
 
-- Contributed to several open-source projects in the **Machine Learning**.
+- Contributed to open-source projects.
 
