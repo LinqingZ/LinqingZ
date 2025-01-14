@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Linqing Zhu 👋
 
-<!--
-**LinqingZ/LinqingZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with background in software engineering, data science and AI development. I love building projects that solve real-world problems. On this page, you'll find a collection of my projects, skills, and contributions to open-source.
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a [Full-Stack Developer / Software Engineer]. I have expertise in various programming languages and frameworks, and I’m always eager to learn new technologies.
+
+- 🔭 I’m currently working on multiple projects related to **Machine Learning** and **Artificial Intelligence**.
+- 🌱 I’m currently learning **AWS** practices and **C language**.
+- 👯 I’m looking to collaborate on open-source projects in **AI**, **Data Science**, and **Web Development**.
+- 💬 Ask me about **Python**, **JavaScript**, **React**, **Node.js**, **Docker**, and **CI/CD**.
+- ⚡ Fun fact: I had limited experience with computers and never owned a laptop or computer before college.
+
+## 🧰 Skills
+
+Here are some of the tools and technologies I work with:
+
+- **Programming Languages**: Python, JavaScript, Java, C++
+- **Web Technologies**: React, Node.js, Express, HTML, CSS, RESTful APIs
+- **Database Technologies**: MySQL, PostgreSQL, MongoDB
+- **Data Science & Machine Learning**: TensorFlow, Scikit-learn, Pandas, NumPy
+- **Other Tools**: Git, GitHub, VSCode
+
+## 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/linqingzhu/)
+- [Website](https://linqingz.github.io/)
+
+
+### 🏆 Achievements
+
+- Contributed to several open-source projects in the **Machine Learning**.
+
